@@ -1,4 +1,4 @@
-# Python Programming 101
+# Python refresher
 
 By Gianluca Campanella (<g.campanella@estimand.com>)
 
