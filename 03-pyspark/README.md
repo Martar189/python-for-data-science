@@ -14,5 +14,5 @@ By the end of the session, you should be able to:
 
 ## Additional resources
 
-- [PySpark documentation](https://spark.apache.org/docs/2.4.0/api/python/index.html)
+- [PySpark documentation](https://spark.apache.org/docs/latest/api/python/index.html)
 - [Azure Databricks documentation](https://docs.azuredatabricks.net/)
