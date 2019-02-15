@@ -10,3 +10,4 @@ This repository contains teaching materials for the *Python for Data Science* sh
 
 1. [Python refresher](01-python-refresher)
 1. [Data analysis in Python](02-data-analysis)
+1. [Data analysis using PySpark](03-pyspark)
